@@ -43,9 +43,9 @@ The factor shares chart confirms the remaining stylised facts hold reasonably we
 
 ### Slide 6 – Denmark: Solow Model
 
-Calibrating the Solow model using Penn World Table data from 2000 to 2019, we get the following parameters. Alpha is 0.373, the savings rate is 24.8%, depreciation 4.4%, population growth 0.3% per year, and TFP growth 1.3% per year. These feed into a steady-state capital-output ratio of about 5.82 and output of 2.29 in effective units.
+Calibrating the Solow model using Penn World Table data from 2000 to 2019, we get the following parameters. Alpha is 0.366, the savings rate is 26.3%, depreciation 4.1%, population growth 0.5% per year, and TFP growth 0.1% per year. These feed into a steady-state capital intensity of about 15.35 and output of 2.72 in effective units.
 
-The key policy experiment is a savings shock. Since the savings rate s equals 24.8% and alpha is 37.3%, we have s less than alpha — Denmark is below the Golden Rule. This means increasing the savings rate moves the economy closer to the Golden Rule steady state and raises long-run consumption per worker. The transition path is smooth, reaching the new steady state over several decades, which illustrates the diminishing returns mechanism at the core of the Solow model.
+The key policy experiment is a savings shock. Since the savings rate s equals 26.3% and alpha is 36.6%, we have s less than alpha — Denmark is below the Golden Rule. This means increasing the savings rate moves the economy closer to the Golden Rule steady state and raises long-run consumption per worker. The transition path is smooth, reaching the new steady state over several decades, which illustrates the diminishing returns mechanism at the core of the Solow model.
 
 ---
 
@@ -86,7 +86,7 @@ The cross-country comparison confirms Norway sits well above the peer group traj
 
 Norway's Solow calibration reveals two important anomalies. First, alpha is 0.505 — greater than 0.5 — entirely because oil rents inflate measured capital income. In a standard economy without resource extraction, the capital share is typically around 1/3. Second, and more unusual, TFP growth g is actually slightly negative at minus 0.6% per year over 2000–2019. This reflects the maturing of Norway's oil fields: as reserves deplete, total factor productivity in the economy-wide sense declines.
 
-The policy experiment we simulate is a reduction in domestic spending of oil revenues — effectively reinvesting a larger share through the GPFG rather than spending it domestically. This lowers the effective savings rate channelled into the domestic economy, s decreases, and the model shows the economy transitioning to a lower domestic steady state. In the long run, this preserves wealth for future generations at the cost of lower current consumption.
+The policy experiment we simulate is reinvesting a larger share of oil revenues through the GPFG rather than spending them domestically. Channelling more oil wealth into the sovereign fund raises the effective national savings rate — s increases — and the model shows the economy transitioning to a higher domestic steady state. In the long run, this builds wealth that generates returns for future generations.
 
 ---
 
@@ -117,9 +117,9 @@ Unemployment tells a clear structural story. Starting near 10% in 1993 — the a
 
 ### Slide 15 – Sweden: Solow Model
 
-Sweden's Solow parameters are similar to Denmark's. Alpha is 0.360, the savings rate is 25.8%, depreciation 4.6%, population growth 0.7%, and TFP growth 1.3%. The steady-state capital intensity is 5.50 and effective output is 2.22.
+Sweden's Solow parameters are broadly similar to Denmark's. Alpha is 0.384, the savings rate is 25.9%, depreciation 4.0%, population growth 0.8%, and TFP growth 0.4%. The steady-state capital intensity is 13.32 and effective output is 2.70.
 
-Like Denmark, Sweden is below the Golden Rule — s equals 25.8% while alpha is 36%, so increasing savings raises long-run consumption. Sweden also shows the highest TFP growth rate of the three countries when we account for the oil distortion in Norway, suggesting stronger innovation and productivity dynamics. The Solow model fits Sweden well: smooth convergence to steady state with no structural anomalies.
+Like Denmark, Sweden is below the Golden Rule — s equals 25.9% while alpha is 38.4%, so increasing savings raises long-run consumption. Sweden also shows the highest TFP growth rate of the three countries when we account for the oil distortion in Norway, suggesting stronger innovation and productivity dynamics. The Solow model fits Sweden well: smooth convergence to steady state with no structural anomalies.
 
 ---
 
@@ -152,7 +152,7 @@ On inflation, the three countries broadly converge after 2000 as all three opera
 
 The Solow comparison crystallises the key finding of the cross-country analysis. Norway is the outlier on almost every parameter: alpha above 0.5, negative TFP growth, and savings behaviour distorted by the oil fund mechanism. These are not signs of a more or less productive economy — they are signs of a resource economy where standard growth accounting breaks down.
 
-Denmark and Sweden, by contrast, are remarkably similar in their Solow structure. Both sit below the Golden Rule, both have positive TFP growth around 1.3%, and both show smooth convergence in the tilde variables. The main difference is Sweden's slightly lower alpha and higher population growth, giving a somewhat lower steady-state capital intensity. In all three cases, the policy implication is the same: saving more would increase long-run welfare, which is consistent with the Nordic model's emphasis on high institutional savings through pension systems and sovereign funds.
+Denmark and Sweden, by contrast, are broadly similar in their Solow structure. Both sit below the Golden Rule, both have positive TFP growth — Denmark around 0.1%, Sweden around 0.4% — and both show smooth convergence in the tilde variables. The main difference is Sweden's slightly higher alpha and higher population growth, giving a somewhat lower steady-state capital intensity. In all three cases, the policy implication is the same: saving more would increase long-run welfare, which is consistent with the Nordic model's emphasis on high institutional savings through pension systems and sovereign funds.
 
 To summarise: all three countries are high-income, stable, and broadly confirm the Solow model's predictions — with Norway as the instructive exception that shows what happens when resource extraction dominates the national accounts.
 
